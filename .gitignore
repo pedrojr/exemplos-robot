@@ -127,3 +127,16 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# others
+_
+logs/
+*.cfg
+*.dof
+*.dsk
+*.ddp
+*.dcu
+*.res
+*.bak
+*.bk*
+*.~*
