@@ -1,0 +1,3 @@
+
+Para rodar os testes execute, no cmd ou powershell, dentro da pasta "sikuli-library" ou "white-library" o comando: 
+robot -d ./logs .\testes.robot
