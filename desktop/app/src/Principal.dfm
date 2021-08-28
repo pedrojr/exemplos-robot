@@ -58,7 +58,7 @@ object frmPrincipal: TfrmPrincipal
       end
     end
     object mnuSistema: TMenuItem
-      Caption = 'Sistema'
+      Caption = 'Sistemas'
       object mnuSobre: TMenuItem
         Caption = 'Sobre'
         OnClick = mnuSobreClick

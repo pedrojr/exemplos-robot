@@ -1,5 +1,5 @@
 * Settings *
-Documentation    Suite de teste do cadastro de funções
+Documentation    Suite de teste app.exe
 
 Resource    ${EXECDIR}/resources/comum.robot
 Resource    ${EXECDIR}/keywords-aluno.robot
