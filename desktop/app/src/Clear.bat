@@ -1,1 +1,0 @@
-del /s /q *.bak *.bk* *.dcu *.ddp *.~*
